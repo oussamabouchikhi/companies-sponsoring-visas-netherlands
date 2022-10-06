@@ -27,5 +27,7 @@ Here are the steps:
 |-------|--------------|-----------------|---------------|--------------------|
 | Adyen | Amsterdam, NL | Engineering | https://careers.adyen.com | N/A |
 | Booking.com | Amsterdam, NL | Engineering | https://careers.booking.com | N/A |
+| Magno IT Recruitment | Baarn, NL | Engineering | https://www.magno-it.nl/Vacancies.aspx | N/A |
+
 
 
