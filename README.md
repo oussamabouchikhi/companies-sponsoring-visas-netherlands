@@ -25,10 +25,9 @@ Here are the steps:
 
 | Name  | Location(s)  | Department  |  Careers page |  Relocation bonus? |
 |-------|--------------|-----------------|---------------|--------------------|
-| Adyen | Amsterdam, NL | Engineering | https://careers.adyen.com | N/A |
-| Booking.com | Amsterdam, NL | Engineering | https://careers.booking.com | N/A |
-| CoffeeIT | Utrecht, NL | Engineering | https://coffeeit.nl/vacatures | N/A |
-| Magno IT Recruitment | Baarn, NL | Engineering | https://www.magno-it.nl/Vacancies.aspx | N/A |
-
-
+| Adyen | Amsterdam, NL | IT | https://careers.adyen.com | N/A |
+| Booking.com | Amsterdam, NL | IT | https://careers.booking.com | N/A |
+| CoffeeIT | Utrecht, NL | IT | https://coffeeit.nl/vacatures | N/A |
+| Magno IT Recruitment | Baarn, NL | IT | https://www.magno-it.nl/Vacancies.aspx | N/A |
+| Codedazur | Amsterdam, NL | IT | https://careers.codedazur.com/ | N/A |
 
